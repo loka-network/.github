@@ -9,9 +9,9 @@ We aim to resolve the "three fractures" in enterprise on-chain business: slow se
 ## ✨ Key Features & Advantages
 
 *   **High-Performance Parachains:**
-    *   **Single Sequencer Group:** Up to **300,000 TPS** for core operations.
+    *   **Sequencer:** Up to **300,000 TPS** for core operations.
     *   **Horizontal Scalability:** Each parachain capable of **100,000 TPS** with sub-second finality.
-    *   **Multi-VM Support:** Optimized for EVM, Move, and custom WASM.
+    *   **Multi-VM Support:** Optimized for EVM, and custom WASM.
 *   **Modular & Customizable:**
     *   Deploy dedicated L2s (parachains) tailored for specific use cases (e.g., payments, high-frequency trading, gaming, compliance).
     *   Flexible Gas models and governance rules per sub-chain.
@@ -22,7 +22,7 @@ We aim to resolve the "three fractures" in enterprise on-chain business: slow se
     *   **LOKA Stable:** An optional, modular feature for compliant enterprise stablecoin issuance with real-time auditability.
     *   **LOKA DEX:** High-performance trading engine with 1ms matching latency, on-chain order book, and unified liquidity.
     *   **Account Abstraction (AA) & Gas Abstraction:** Seamless user experience with sponsored transactions and multi-asset gas payments.
-    *   **Built-in Compliance:** KYC whitelisting, audit logs, and cross-chain firewall.
+    *   **Built-in Compliance:** KYC whitelisting, audit logs.
 
 
 ## 🏗️ Architecture Highlights
