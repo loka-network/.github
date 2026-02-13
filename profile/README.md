@@ -172,6 +172,6 @@ This repository contains the core components of the Loka Network. We welcome con
 
 **Built with ❤️ by the Loka Team**
 
-[Website](https://lokachain.org/) • [Documentation](https://docs.loka.network) • [Discord](https://discord.gg/loka) • [Twitter](https://x.com/lokachain)
+[Website](https://lokachain.org/) • [Twitter](https://x.com/lokachain)
 
 </div>
